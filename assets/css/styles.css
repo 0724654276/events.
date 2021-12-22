@@ -849,3 +849,15 @@ footer ul li a:hover {
     margin-right: auto;
     width: 50%;
 }
+
+
+
+.product-item img {
+  max-width: 35em;
+  max-height: 8rem;
+  margin: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
